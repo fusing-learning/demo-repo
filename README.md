@@ -6,3 +6,7 @@ Created on 20th Mar 2025 to learn Git & Github.
 Test changes.
 
 Test changes on M4P on 250324
+
+## Local Development
+
+1. Open index.html in your browser.
